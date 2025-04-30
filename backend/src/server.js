@@ -13,7 +13,7 @@ const app = express();
 
 const cors = require('cors');
 app.use(cors({
-    origin: "https://product-management-system-frontend-5snj.onrender.com",
+    origin: ["http://localhost:3000", "https://product-management-system-frontend-5snj.onrender.com"],
     credentials: true,
 }));
 
