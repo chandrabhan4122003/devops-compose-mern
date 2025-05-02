@@ -13,7 +13,7 @@ const Home = () => {
             <div className={style.text}>
                 <div>
                     <span>
-                        Samba OG Shoes
+                        Samba OG Shoes ye
                     </span>
                 </div>
                 <div>
